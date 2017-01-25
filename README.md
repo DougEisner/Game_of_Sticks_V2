@@ -1,3 +1,3 @@
-Game of Stick
+Game of Sticks
 
-Redo of assignment. Completed with Bryce.
+Second version of assignment. Completed with Bryce.
